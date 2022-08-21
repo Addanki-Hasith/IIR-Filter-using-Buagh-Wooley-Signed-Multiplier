@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Aug 21 16:42:18 2022
+# Process ID: 4152
+# Current directory: F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/IIR_Filter_using_Baugh_Wooley_Multiplier/IIR_Filter_using_Baugh_Wooley_Multiplier.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/IIR_Filter_using_Baugh_Wooley_Multiplier/IIR_Filter_using_Baugh_Wooley_Multiplier.sim/sim_1/behav/xsim/xsim.dir/filter_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/IIR_Filter_using_Baugh_Wooley_Multiplier/IIR_Filter_using_Baugh_Wooley_Multiplier.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Digital System Designing using Verilog/System-Design-Using-VerilogHDL/Gate Levl Modelling/IIR_Filter_using_Baugh_Wooley_Multiplier/IIR_Filter_using_Baugh_Wooley_Multiplier.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Digital -notrace

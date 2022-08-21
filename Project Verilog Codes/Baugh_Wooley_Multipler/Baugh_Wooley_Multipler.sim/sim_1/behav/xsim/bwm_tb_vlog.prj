@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Baugh_Wooley_Multipler.srcs/sources_1/new/bwm.v" \
+"../../../../../4_Full_adder/4_Full_adder.srcs/sources_1/new/full_adder.v" \
+"../../../../../3_half_adder/3_half_adder.srcs/sources_1/new/half_adder.v" \
+"../../../../Baugh_Wooley_Multipler.srcs/sources_1/new/product_terms.v" \
+"../../../../Baugh_Wooley_Multipler.srcs/sim_1/new/bwm_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

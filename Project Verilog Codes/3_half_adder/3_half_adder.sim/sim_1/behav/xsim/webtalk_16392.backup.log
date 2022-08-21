@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Aug  6 22:05:47 2022
+# Process ID: 16392
+# Current directory: F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/3_half_adder/3_half_adder.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/3_half_adder/3_half_adder.sim/sim_1/behav/xsim/xsim.dir/half_adder_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/3_half_adder/3_half_adder.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Digital System Designing using Verilog/System Design Using Verilog/Verilog_files/Gate Levl Modelling/3_half_adder/3_half_adder.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Digital -notrace
+couldn't read file "F:/Digital": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sat Aug  6 22:05:47 2022...
